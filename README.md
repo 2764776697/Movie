@@ -8,12 +8,14 @@
 
 2.安装依赖
 
-npm i
+`npm i`
+
+2.本地运行
+
+`npm run dev`
 
 3.打包
 
-npm run build
+`npm run build`
 
 4.将打包好后的dist静态资源文件夹上传到服务器
-
-5.完成
