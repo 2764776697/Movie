@@ -1,0 +1,42 @@
+[{
+		"name": "腾讯视频",
+		"logo": "/images/txsp.svg",
+		"link": "https://v.qq.com/"
+	},
+	{
+		"name": "西瓜视频",
+		"logo": "/images/xgsp.svg",
+		"link": "https://www.ixigua.com/"
+	},
+	{
+		"name": "芒果TV",
+		"logo": "/images/mgtv.svg",
+		"link": "https://www.mgtv.com/"
+	},
+	{
+		"name": "优酷视频",
+		"logo": "/images/yk.svg",
+		"link": "https://youku.com/"
+	},
+	{
+		"name": "爱奇艺",
+		"logo": "/images/aqy.svg",
+		"link": "https://www.iqiyi.com/"
+	},
+	{
+		"name": "哔哩哔哩",
+		"logo": "/images/blbl.svg",
+		"link": "https://www.bilibili.com/"
+	},
+
+	{
+		"name": "咪咕视频",
+		"logo": "/images/mgsp.svg",
+		"link": "https://www.miguvideo.com/"
+	},
+	{
+		"name": "搜狐视频",
+		"logo": "/images/shsp.svg",
+		"link": "https://tv.sohu.com/"
+	}
+]
