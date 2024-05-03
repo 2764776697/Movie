@@ -55,11 +55,11 @@ const playButton = ref(true)
 const stopButton = ref(false)
 const inputUrl = ref('')
 const load = ref(true)
-const selectApi = ref('https://jx.2s0.cn/player/?url='); // 默认选择推荐接口
+const selectApi = ref('https://im1907.top/?jx='); // 默认选择推荐接口
 const options = [
 
 	{
-		value: 'https://jx.2s0.cn/player/?url=',
+		value: 'https://im1907.top/?jx=',
 		label: '默认接口',
 	},
 
